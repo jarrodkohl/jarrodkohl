@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hi there 👋 I'm Jarrod
 
-<!--
-**jarrodkohl/jarrodkohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Agent AI Content - a web app that helps real estate agents create social media content!
+- 🌱 I’m currently learning Python, and expanding my expertise in the JavaScript sphere (Typescript, Frameworks, etc)
+- 👯 I’m looking to collaborate on AI and my new project!
+- 🤔 I’m looking for help with Machine learning and traing python models (pyTorch)
+- 💬 Ask me about AI, Real Estate, Entrepreneurship 
+- 📫 How to reach me: jarrod.kohl@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I am almost 7 feet tall! And I played basketball and football in College.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I'm a passionate software developer with a background in real estate and sales, currently transitioning to a career in technology. I have experience in front-end engineering and I'm excited to contribute my skills and expertise to meaningful projects.
+
+## 🌟 My Technical Skills
+
+- **Languages**: HTML, CSS, JavaScript, Typescript, Python
+- **Databases**: SQL, PostgreSQL, MongoDB
+- **Software/Tools**: Node, React.js, Sass, Foundation, Git, GitHub, Looker, Cypress, Jest, Yardi, Vite, Tailwind, AWS
+
+## 🚀 Projects
+
+- **PromptAI**: A platform that utilizes the OpenAI API to generate content for companies and provides users with a user-friendly interface to improve their content iteration and creation. [Demo](https://promptai.herokuapp.com) | [GitHub](https://github.com/jarrodkohl/promptAI)
+
+- **Agent Ai Content**: An application that allows real estate agents to build out their social media bios and will allow for the creation of larger social media campaigns accross multiple platforms. 
+
+- **StealthMode Web3 Projects**: I also work as part of a small team that creates whitelabel SAAS projects for web3 and NFT collections. Most of which is not shared publicly. But I am happy to talk about the general principals and technologies involved. 
+
+- **Totally Board: Game Reviews**: A collaborative project for an app that enables users to add, delete, and review their favorite board games. [GitHub](https://github.com/chelscodes/board-game-reviews)
+
+## 🔍 Where to Find Me
+
+- [LinkedIn](https://www.linkedin.com/in/jarrodkohl/)
+
+
+## 💌 Get in Touch
+
+Feel free to reach out to me if you have any questions or opportunities you'd like to discuss. I'm always open to collaboration and learning new things!
+
