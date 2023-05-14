@@ -16,9 +16,9 @@ I'm a passionate software developer with a background in real estate and sales, 
 
 ## 🌟 My Technical Skills
 
-- **Languages**: HTML, CSS, JavaScript, Typescript, Python
+- **Languages**: JavaScript, Typescript, Python, HTML, CSS
 - **Databases**: SQL, PostgreSQL, MongoDB
-- **Software/Tools**: Node, React.js, Sass, Foundation, Git, GitHub, Looker, Cypress, Jest, Yardi, Vite, Tailwind, AWS
+- **Software/Tools**: Node, React.js, Next.js, Sass, Foundation, Git, GitHub, Looker, Cypress, Jest, Yardi, Vite, Tailwind, AWS
 
 ## 🚀 Projects
 
