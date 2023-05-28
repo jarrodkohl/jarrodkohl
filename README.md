@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently working on Agent AI Content - a web app that helps real estate agents create social media content!
+- I am also creating websites for clients all over the country! PLease reach out of you need help.
 - 🌱 I’m currently learning Three.js and focusing on web design.
 - 👯 I’m looking to collaborate on AI or some front end developement!
 - 🤔 I’m looking for help with Machine learning and traing python models (pyTorch)
