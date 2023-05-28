@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on Agent AI Content - a web app that helps real estate agents create social media content!
-- 🌱 I’m currently learning Python, and expanding my expertise in the JavaScript sphere (Typescript, Frameworks, etc)
-- 👯 I’m looking to collaborate on AI and my new project!
+- 🌱 I’m currently learning Three.js and focusing on web design.
+- 👯 I’m looking to collaborate on AI or some front end developement!
 - 🤔 I’m looking for help with Machine learning and traing python models (pyTorch)
 - 💬 Ask me about AI, Real Estate, Entrepreneurship 
 - 📫 How to reach me: jarrod.kohl@gmail.com
